@@ -17,6 +17,7 @@
   "homepage": "https://github.com/pspeter3/gaia-mesh#readme",
   "dependencies": {
     "preact": "^10.4.1",
+    "tailwindcss": "^1.4.0",
     "tslib": "^1.11.1"
   },
   "devDependencies": {
