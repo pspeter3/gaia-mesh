@@ -13,5 +13,11 @@
   "bugs": {
     "url": "https://github.com/pspeter3/gaia-mesh/issues"
   },
-  "homepage": "https://github.com/pspeter3/gaia-mesh#readme"
+  "homepage": "https://github.com/pspeter3/gaia-mesh#readme",
+  "dependencies": {
+    "tslib": "^1.11.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
